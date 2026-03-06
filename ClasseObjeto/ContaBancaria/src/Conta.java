@@ -1,13 +1,13 @@
 import java.sql.SQLOutput;
 
-public class Conta {
+public class ContaBancaria {
     public String nomeCliente;
     public int numeroConta, agencia;
     public float saldo = 0;
     public boolean status = true;
 
     //criar conta bancária
-    public Conta(String nomeCliente, int numeroConta, int agencia) {
+    public ContaBancaria(String nomeCliente, int numeroConta, int agencia) {
         this.nomeCliente = nomeCliente;
         this.numeroConta = numeroConta;
         this.agencia = agencia;
