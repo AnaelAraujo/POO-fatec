@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Conta {
     public String nomeCliente;
     public int numeroConta, agencia;
