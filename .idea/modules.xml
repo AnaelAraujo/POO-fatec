@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaOO-main.iml" filepath="$PROJECT_DIR$/.idea/JavaOO-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PainelJogoBasquete/PainelJogoBasquete.iml" filepath="$PROJECT_DIR$/PainelJogoBasquete/PainelJogoBasquete.iml" />
+    </modules>
+  </component>
+</project>
