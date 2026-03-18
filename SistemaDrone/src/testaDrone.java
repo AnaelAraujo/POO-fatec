@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class testaDrone {
     public static void main(String[] args) {
+        System.out.println("Testador de drone massa, ó doidum");
         DroneInteligente d1 = new DroneInteligente("676767", 100, 67, false);
         d1.decolar();
 
