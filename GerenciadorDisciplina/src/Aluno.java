@@ -1,0 +1,60 @@
+public class Aluno {
+    private int id;
+    private String nome, ra, curso;
+
+    //Construtores -------------------------------------------------------------------------
+    public Aluno() {
+    }
+
+    public Aluno(int id, String nome, String ra, String curso) {
+        this.id = id;
+        this.nome = nome;
+        this.ra = ra;
+        this.curso = curso;
+    }
+    //métodos ------------------------------------------------------------------------------
+
+
+    //geters/seters ------------------------------------------------------------------------
+    public String getCurso() {
+        return curso;
+    }
+
+    public void setCurso(String curso) {
+        this.curso = curso;
+    }
+
+    public String getRa() {
+        return ra;
+    }
+
+    public void setRa(String ra) {
+        this.ra = ra;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    @Override
+    public String toString() {
+        return "Aluno{" +
+                "id=" + id +
+                ", nome='" + nome + '\'' +
+                ", ra='" + ra + '\'' +
+                ", curso='" + curso + '\'' +
+                '}';
+    }
+}
