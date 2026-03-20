@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java OO.iml" filepath="$PROJECT_DIR$/.idea/Java OO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/poo-2026n-main/poo-2026n-main.iml" filepath="$PROJECT_DIR$/poo-2026n-main/poo-2026n-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaOO-main.iml" filepath="$PROJECT_DIR$/.idea/JavaOO-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PainelJogoBasquete/PainelJogoBasquete.iml" filepath="$PROJECT_DIR$/PainelJogoBasquete/PainelJogoBasquete.iml" />
     </modules>
   </component>
 </project>
